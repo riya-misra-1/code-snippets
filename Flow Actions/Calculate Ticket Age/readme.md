@@ -2,7 +2,8 @@ This is a custom action that calculate the age of the ticket/incident on the bas
 
 
 Input Variable:
-1.Start Date Type-Date/Time, Mandatory
+
+1. Start Date Type-Date/Time, Mandatory
 2. End Date  Type-Date/Time, Mandatory
 
 Output variable:
